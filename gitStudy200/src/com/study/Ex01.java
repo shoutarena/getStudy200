@@ -8,7 +8,6 @@ public class Ex01 {
 	//ㅁㄴㅇ라ㅣㅓㅁㄴㅇ라ㅣㅓㅁㄴ아ㅣ러
 	//수정3
 	
-	//kljklj
-	//수정4
+	//kljklj 
 	//수정5
 }
